@@ -29,7 +29,7 @@ latest_posts:
 
 I am a scientist and engineer working to apply AI to scientific problems and maximize its positive impact on people and society.
 
-As a Machine Learning Scientist at [Generate:Biomedicines](https://generatebiomedicines.com/), I push the boundaries of what generative models can achieve in biochemical space. I focus in particular on maximizing the ROI of experimental data: I build active learning loops that identify the most valuable data to collect, develop computational methods that process experimental data and turn it into signal for ML models, and discover new ways to collect data.
+As a Machine Learning Scientist at [Generate:Biomedicines](https://generatebiomedicines.com/), I push the boundaries of what generative models can achieve in biochemical space. I focus in particular on maximizing the ROI of experimental data: I build active learning loops that identify the most valuable data to collect, develop computational methods that turn experimental data into signal for ML models, and discover new ways to collect data.
 
 Prior to Generate, I conducted my doctoral studies at Stanford University under Prof. Gordon Wetzstein ([Stanford Computational Imaging Lab](https://www.computationalimaging.org/)) and Prof. Mike Dunne ([SLAC National Lab](https://www6.slac.stanford.edu/), [LCLS](https://lcls.slac.stanford.edu/)). The guiding thread of my Ph.D. research was the development of deep-learning-based methods for 3D reconstruction from cryo-electron microscopy data. If you'd like to learn more, check out the recording of my Ph.D. defense below!
 
