@@ -2,33 +2,48 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ML Scientist at <a href='https://generatebiomedicines.com/'>Generate:Biomedicines</a> &bull; Stanford Ph.D. (Electrical Engineering)
 
 profile:
   align: right
   image: prof_pic_color.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Axel Levy</p>
+    <br>
+    <p>Generate:Biomedicines</p>
+    <br>
+    <p>axlevy[at]stanford.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a scientist and engineer working to apply AI to scientific problems and maximize its positive impact on people and society.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a Machine Learning Scientist at [Generate:Biomedicines](https://generatebiomedicines.com/), I push the boundaries of what generative models can achieve in biochemical space. I focus in particular on maximizing the ROI of experimental data: I build active learning loops that identify the most valuable data to collect, develop computational methods that process experimental data and turn it into signal for ML models, and discover new ways to collect data.
+
+Prior to Generate, I conducted my doctoral studies at Stanford University under Prof. Gordon Wetzstein ([Stanford Computational Imaging Lab](https://www.computationalimaging.org/)) and Prof. Mike Dunne ([SLAC National Lab](https://www6.slac.stanford.edu/), [LCLS](https://lcls.slac.stanford.edu/)). The guiding thread of my Ph.D. research was the development of deep-learning-based methods for 3D reconstruction from cryo-electron microscopy data. If you'd like to learn more, check out the recording of my Ph.D. defense below!
+
+<div class="embed-responsive embed-responsive-4by3 mt-3 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QwI2a18iymA" allowfullscreen></iframe>
+</div>
+
+<!-- <figure class="text-center mt-3 mb-3">
+  <img src="https://axlevy.com/wp-content/uploads/2023/12/rabbit_hand_shadow-412026319-e1701978084313.jpeg" alt="Drawing by John O'Brien" class="img-fluid" style="max-width: 588px;" />
+  <figcaption class="mt-1"><em>Drawing by John O'Brien, 1991, The New Yorker Magazine</em></figcaption>
+</figure> -->
+
+---
+
+> *"Physics is not a description of the universe, but a description of what we can state about the universe."*
+>
+> — Roger Balian, *Information et entropie en Physique Statistique*, Collège de France, 2018.
