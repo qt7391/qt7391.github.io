@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-22'
 papers:
   yO62sYUAAAAJ:0EnyYjriUFMC:
-    citations: 16
+    citations: 17
     title: 'CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets'
     year: '2025'
   yO62sYUAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: Amortized Inference for Heterogeneous Reconstruction in Cryo-EM
     year: '2022'
   yO62sYUAAAAJ:5nxA0vEk-isC:
-    citations: 7
+    citations: 8
     title: Multiscale guidance of AlphaFold3 with heterogeneous cryo-EM data
     year: '2025'
   yO62sYUAAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: Amortized pose estimation for x-ray single particle imaging
     year: '2023'
   yO62sYUAAAAJ:UeHWp8X0CEIC:
-    citations: 332
+    citations: 334
     title: Generative novel view synthesis with 3d-aware diffusion models
     year: '2023'
   yO62sYUAAAAJ:UebtZRa9Y70C:
@@ -38,7 +38,7 @@ papers:
     title: Dual Ascent Diffusion for Inverse Problems
     year: '2025'
   yO62sYUAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: End-to-end neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets
     year: '2024'
   yO62sYUAAAAJ:Y0pCki6q_DkC:
@@ -54,7 +54,7 @@ papers:
     title: 'MELON: NeRF with Unposed Images in SO (3)'
     year: '2024'
   yO62sYUAAAAJ:d1gkVwhDpl0C:
-    citations: 58
+    citations: 59
     title: 'Cryoai: Amortized inference of poses for ab initio reconstruction of 3d molecular volumes from real cryo-em images'
     year: '2022'
   yO62sYUAAAAJ:hqOjcs7Dif8C:
