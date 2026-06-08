@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-08'
 papers:
   yO62sYUAAAAJ:0EnyYjriUFMC:
-    citations: 17
+    citations: 18
     title: 'CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets'
     year: '2025'
   yO62sYUAAAAJ:2osOgNQ5qMEC:
-    citations: 61
+    citations: 63
     title: Amortized Inference for Heterogeneous Reconstruction in Cryo-EM
     year: '2022'
   yO62sYUAAAAJ:5nxA0vEk-isC:
-    citations: 8
+    citations: 9
     title: Multiscale guidance of AlphaFold3 with heterogeneous cryo-EM data
     year: '2025'
   yO62sYUAAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: Amortized pose estimation for x-ray single particle imaging
     year: '2023'
   yO62sYUAAAAJ:UeHWp8X0CEIC:
-    citations: 334
+    citations: 343
     title: Generative novel view synthesis with 3d-aware diffusion models
     year: '2023'
   yO62sYUAAAAJ:UebtZRa9Y70C:
@@ -38,7 +38,7 @@ papers:
     title: Dual Ascent Diffusion for Inverse Problems
     year: '2025'
   yO62sYUAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: End-to-end neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets
     year: '2024'
   yO62sYUAAAAJ:Y0pCki6q_DkC:
@@ -54,7 +54,7 @@ papers:
     title: 'MELON: NeRF with Unposed Images in SO (3)'
     year: '2024'
   yO62sYUAAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 61
     title: 'Cryoai: Amortized inference of poses for ab initio reconstruction of 3d molecular volumes from real cryo-em images'
     year: '2022'
   yO62sYUAAAAJ:hqOjcs7Dif8C:
@@ -66,18 +66,18 @@ papers:
     title: 'MELON: NeRF with Unposed Images Using Equivalence Class Estimation'
     year: '2023'
   yO62sYUAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: Mixture of neural fields for heterogeneous reconstruction in cryo-EM
     year: '2024'
   yO62sYUAAAAJ:u-x6o8ySG0sC:
-    citations: 62
+    citations: 63
     title: Deep generative modeling for volume reconstruction in cryo-electron microscopy
     year: '2022'
   yO62sYUAAAAJ:u5HHmVD_uO8C:
-    citations: 27
+    citations: 28
     title: Voltage-controlled superparamagnetic ensembles for low-power reservoir computing
     year: '2021'
   yO62sYUAAAAJ:ufrVoPGSRksC:
-    citations: 16
+    citations: 18
     title: Solving Inverse Problems in Protein Space Using Diffusion-Based Priors
     year: '2024'
