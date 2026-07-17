@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-17'
 papers:
   yO62sYUAAAAJ:0EnyYjriUFMC:
-    citations: 20
+    citations: 22
     title: 'CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets'
     year: '2025'
   yO62sYUAAAAJ:2osOgNQ5qMEC:
-    citations: 65
+    citations: 66
     title: Amortized Inference for Heterogeneous Reconstruction in Cryo-EM
     year: '2022'
   yO62sYUAAAAJ:5nxA0vEk-isC:
-    citations: 9
+    citations: 10
     title: Multiscale guidance of AlphaFold3 with heterogeneous cryo-EM data
     year: '2025'
   yO62sYUAAAAJ:9yKSN-GCB0IC:
@@ -30,11 +30,11 @@ papers:
     title: Amortized pose estimation for x-ray single particle imaging
     year: '2023'
   yO62sYUAAAAJ:UeHWp8X0CEIC:
-    citations: 347
+    citations: 350
     title: Generative novel view synthesis with 3d-aware diffusion models
     year: '2023'
   yO62sYUAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Dual Ascent Diffusion for Inverse Problems
     year: '2025'
   yO62sYUAAAAJ:WF5omc3nYNoC:
@@ -78,6 +78,6 @@ papers:
     title: Voltage-controlled superparamagnetic ensembles for low-power reservoir computing
     year: '2021'
   yO62sYUAAAAJ:ufrVoPGSRksC:
-    citations: 18
+    citations: 19
     title: Solving Inverse Problems in Protein Space Using Diffusion-Based Priors
     year: '2024'
