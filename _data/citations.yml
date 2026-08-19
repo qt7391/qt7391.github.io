@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   yO62sYUAAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: 'CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM and cryo-ET datasets'
     year: '2025'
   yO62sYUAAAAJ:2osOgNQ5qMEC:
@@ -30,7 +30,7 @@ papers:
     title: Amortized pose estimation for x-ray single particle imaging
     year: '2023'
   yO62sYUAAAAJ:UeHWp8X0CEIC:
-    citations: 349
+    citations: 350
     title: Generative novel view synthesis with 3d-aware diffusion models
     year: '2023'
   yO62sYUAAAAJ:UebtZRa9Y70C:
@@ -62,7 +62,7 @@ papers:
     title: Scalable 3D reconstruction for X-ray single particle imaging with online machine learning
     year: '2025'
   yO62sYUAAAAJ:qjMakFHDy7sC:
-    citations: 16
+    citations: 17
     title: 'MELON: NeRF with Unposed Images Using Equivalence Class Estimation'
     year: '2023'
   yO62sYUAAAAJ:roLk4NBRz8UC:
@@ -74,7 +74,7 @@ papers:
     title: Deep generative modeling for volume reconstruction in cryo-electron microscopy
     year: '2022'
   yO62sYUAAAAJ:u5HHmVD_uO8C:
-    citations: 29
+    citations: 30
     title: Voltage-controlled superparamagnetic ensembles for low-power reservoir computing
     year: '2021'
   yO62sYUAAAAJ:ufrVoPGSRksC:
